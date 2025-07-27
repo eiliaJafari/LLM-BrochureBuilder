@@ -57,3 +57,6 @@ This project is an intelligent brochure-generation tool powered by LLMs like **O
 - Automatically convert markdown to PDF or HTML
 - Add logo/image embedding via a relevant tool
 
+---
+
+##### Inspired by the course "LLM Engineering: Master AI, Large Language Models & Agents" by Ed Donner on Udemy 
